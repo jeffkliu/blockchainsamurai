@@ -1,18 +1,22 @@
 /** Mainly for refreshing memory on Java programming **/
 import java.util.*; 
+/*import org.apache.commons.lang3.*;*/
+import java.security.*;
 
 public class testjava {
 
 	int keyInt;
 	String keyString;
 	byte[] keyArray;
-	ArrayList keyArrayList;
+	ArrayList<testjava> keyArrayList;
 
 	/* Main Contructor */
 	public testjava()
 	{
-		keyInt = 0;
-		keyString = "Hello";
+		this.keyInt = 0;
+		this.keyString = "Hello";
+		this.keyArray = new byte [10];
+		this.keyArrayList = new ArrayList<testjava>();
 
 	}
 
@@ -54,10 +58,14 @@ public class testjava {
 
 
 	public static void main(String[] args) {
-		
-		testjava testClass = new testjava(10, "Hello");
 
-		System.out.println(testClass.keyString + " " + testClass.keyInt);
+		/*System.out.println(System.getProperty("java.class.path"));*/
+		testjava testClass = new testjava(10, "Hello");
+		/*byte[] byteList = RandomUtils.nextBytes(20);
+
+
+		System.out.println(Arrays.toString(byteList)); */
+		
 	}
 
 

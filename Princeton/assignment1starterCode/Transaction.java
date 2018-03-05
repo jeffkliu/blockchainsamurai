@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.PublicKey;
+import java.math.BigInteger;
+import java.security.*;
 
 public class Transaction {
 
@@ -19,7 +21,9 @@ public class Transaction {
             if (prevHash == null)
                 prevTxHash = null;
             else
+            {
                 prevTxHash = Arrays.copyOf(prevHash, prevHash.length);
+            }
             outputIndex = index;
         }
 
@@ -115,6 +119,25 @@ public class Transaction {
         for (Byte sb : sigData)
             sigD[i++] = sb;
         return sigD;
+    }
+
+     /**
+     * Creates a signature givent he message and public key
+     */
+    public byte[] createSig(int input, PrivateKey priv) throws SignatureException
+    {
+        Signature sig = null;
+        try{
+            sig = Signature.getInstance("SHA256withRSA");
+            sig.initSign(priv);
+            sig.update(this.getRawDataToSign(input));
+        }
+        catch (NoSuchAlgorithmException | InvalidKeyException e) {
+            throw new RuntimeException(e);
+        }
+
+        return sig.sign();
+
     }
 
     public void addSignature(byte[] signature, int index) {

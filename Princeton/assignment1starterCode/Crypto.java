@@ -33,12 +33,4 @@ public class Crypto {
         return false;
 
     }
-
-    public static void main(String args[])
-    {
-        System.out.println("Hello");
-
-        Crypto newCrypto = new Crypto();
-        
-    }
 }
