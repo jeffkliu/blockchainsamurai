@@ -45,7 +45,7 @@ public class TxHandler {
         {
             if(tx.getOutput(i).value < 0 )
             {
-                //System.out.println("There is a negative value");
+                System.out.println("There is a negative value");
                 return false;
             }
             accumulatedValue = accumulatedValue + tx.getOutput(i).value;
@@ -67,23 +67,14 @@ public class TxHandler {
 
             if(newPool.contains(new UTXO(tx.getInput(j).prevTxHash, tx.getInput(j).outputIndex))==false)
             {
-                //System.out.println("This input does not exist");
+                System.out.println("This input does not exist");
                 return false;
             }
             else
             {
-                for(int i = 0; i <allCurrentUTXOs.size();i++)
-                {
-
-                    if(Arrays.equals(allCurrentUTXOs.get(i).getTxHash(),prevTransactionHash) && 
-                        allCurrentUTXOs.get(i).getIndex() == oIndex)
-                        {
-                            currValue = currValue + newPool.getTxOutput(allCurrentUTXOs.get(i)).value;
-                            currSender = newPool.getTxOutput(allCurrentUTXOs.get(i)).address;
-                            testDup.addUTXO(new UTXO(tx.getInput(j).prevTxHash, tx.getInput(j).outputIndex), 
-                            newPool.getTxOutput(allCurrentUTXOs.get(i)));
-                        }
-                }
+                currValue = currValue + newPool.getTxOutput(new UTXO(prevTransactionHash, oIndex)).value;
+                currSender = newPool.getTxOutput(new UTXO(prevTransactionHash, oIndex)).address;
+                testDup.addUTXO(new UTXO(prevTransactionHash, oIndex), newPool.getTxOutput(new UTXO(prevTransactionHash, oIndex)));
         
             }
 
@@ -95,12 +86,13 @@ public class TxHandler {
         }
 
         if(testDup.getAllUTXO().size() < tx.numInputs()){
-            System.out.println("FAKENEWS");
+            System.out.println("Double-spending attempt");
             return false;
         }
 
         if(currValue < accumulatedValue)
             {
+                System.out.println("Output is greater than input");
                 return false;
             }
 
@@ -115,8 +107,44 @@ public class TxHandler {
      */
     public Transaction[] handleTxs(Transaction[] possibleTxs) {
         // IMPLEMENT THIS
-        Transaction[] newTX = possibleTxs;
-        return newTX;
+        ArrayList<Transaction> invalidTx = new ArrayList<Transaction>(Arrays.asList(possibleTxs));
+        ArrayList<Transaction> validTx = new ArrayList<Transaction>();
+        ArrayList<Transaction> tempTxArray = new ArrayList<Transaction>();
+        ArrayList<UTXO> allCurrentUTXOs = new ArrayList<UTXO>();
+        boolean new_valid_transaction = false;
+
+        for(int i = 0; i < invalidTx.size(); i++)
+        {
+            if(this.isValidTx(invalidTx.get(i)))
+            {
+                //there's still valid tx
+                new_valid_transaction = true;
+                //deleting older input
+                for(int a = 0; a < invalidTx.get(i).numInputs(); a++)
+                {
+                    byte[] prevTransactionHash = invalidTx.get(i).getInput(a).prevTxHash;
+                    int oIndex = invalidTx.get(i).getInput(a).outputIndex;
+
+                     if(newPool.contains(new UTXO(prevTransactionHash,oIndex)))
+                        newPool.removeUTXO(new UTXO(prevTransactionHash,oIndex));
+                }
+
+                //Adding all new UTXOs
+                for(int j = 0; j < invalidTx.get(i).numOutputs(); j++)
+                {
+                    newPool.addUTXO(new UTXO(invalidTx.get(i).getHash(), j), invalidTx.get(i).getOutput(j));   
+                }
+
+                validTx.add(invalidTx.get(i));
+            }
+            else
+            {
+                tempTxArray.add(invalidTx.get(i));
+            }
+        }
+
+
+        return validTx.toArray(new Transaction[validTx.size()]);
     }
     
     public static void main(String[] arg)

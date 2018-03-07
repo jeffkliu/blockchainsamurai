@@ -72,7 +72,7 @@ public class Main {
         // and it contains the coin from Scrooge, therefore I have to sign with the private key from Scrooge
         tx2.signTx(pk_scrooge.getPrivate(), 0);
         
-        /*
+        /*  
          * Start the test
          */
         // Remember that the utxoPool contains a single unspent Transaction.Output which is
