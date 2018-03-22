@@ -1,0 +1,1986 @@
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 2
+This is sender: 8
+This is size of transaction: 2
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 5
+This is sender: 4
+This is size of transaction: 8
+This is sender: 6
+This is size of transaction: 6
+This is sender: 8
+This is size of transaction: 2
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 5
+This is sender: 2
+This is size of transaction: 2
+This is sender: 5
+This is size of transaction: 7
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 2
+This is sender: 7
+This is size of transaction: 8
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 5
+This is sender: 3
+This is size of transaction: 11
+This is sender: 4
+This is size of transaction: 8
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 5
+This is sender: 2
+This is size of transaction: 2
+This is sender: 5
+This is size of transaction: 7
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 5
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 5
+This is sender: 3
+This is size of transaction: 11
+This is sender: 4
+This is size of transaction: 8
+This is sender: 9
+This is size of transaction: 7
+
+
+
+
+We are at round: 10
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 5
+This is sender: 8
+This is size of transaction: 2
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 21
+This is sender: 8
+This is size of transaction: 31
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 4
+This is sender: 4
+This is size of transaction: 10
+This is sender: 6
+This is size of transaction: 14
+This is sender: 8
+This is size of transaction: 31
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 4
+This is sender: 2
+This is size of transaction: 21
+This is sender: 5
+This is size of transaction: 24
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 21
+This is sender: 7
+This is size of transaction: 5
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 4
+This is sender: 3
+This is size of transaction: 14
+This is sender: 4
+This is size of transaction: 10
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 4
+This is sender: 2
+This is size of transaction: 21
+This is sender: 5
+This is size of transaction: 24
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 4
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 4
+This is sender: 3
+This is size of transaction: 14
+This is sender: 4
+This is size of transaction: 10
+This is sender: 9
+This is size of transaction: 7
+
+
+
+
+We are at round: 9
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 4
+This is sender: 8
+This is size of transaction: 31
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 49
+This is sender: 8
+This is size of transaction: 24
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 39
+This is sender: 4
+This is size of transaction: 21
+This is sender: 6
+This is size of transaction: 34
+This is sender: 8
+This is size of transaction: 24
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 39
+This is sender: 2
+This is size of transaction: 49
+This is sender: 5
+This is size of transaction: 24
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 49
+This is sender: 7
+This is size of transaction: 4
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 39
+This is sender: 3
+This is size of transaction: 34
+This is sender: 4
+This is size of transaction: 21
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 39
+This is sender: 2
+This is size of transaction: 49
+This is sender: 5
+This is size of transaction: 24
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 39
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 39
+This is sender: 3
+This is size of transaction: 34
+This is sender: 4
+This is size of transaction: 21
+This is sender: 9
+This is size of transaction: 35
+
+
+
+
+We are at round: 8
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 39
+This is sender: 8
+This is size of transaction: 24
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 41
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 49
+This is sender: 4
+This is size of transaction: 49
+This is sender: 6
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 41
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 49
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 41
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 7
+This is size of transaction: 39
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 49
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 49
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 49
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 41
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 49
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 49
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 49
+This is sender: 9
+This is size of transaction: 54
+
+
+
+
+We are at round: 7
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 49
+This is sender: 8
+This is size of transaction: 41
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 6
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 7
+This is size of transaction: 49
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 9
+This is size of transaction: 54
+
+
+
+
+We are at round: 6
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 6
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 7
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 9
+This is size of transaction: 54
+
+
+
+
+We are at round: 5
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 6
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 7
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 9
+This is size of transaction: 54
+
+
+
+
+We are at round: 4
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 6
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 7
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 9
+This is size of transaction: 54
+
+
+
+
+We are at round: 3
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 6
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 7
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 9
+This is size of transaction: 54
+
+
+
+
+We are at round: 2
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [false, false, true, false, false, false, false, false, true, false]
+[2, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [true, false, false, false, true, false, true, false, true, false]
+[0, 4, 6, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 6
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [true, false, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [false, false, true, false, false, false, false, true, false, false]
+[2, 7]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 2
+This is size of transaction: 54
+This is sender: 7
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [true, false, false, true, true, false, false, false, false, false]
+[0, 3, 4]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [true, true, true, false, false, true, false, false, false, false]
+[0, 2, 5]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 2
+This is size of transaction: 54
+This is sender: 5
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [true, true, false, false, false, false, false, false, false, false]
+[0]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [true, true, false, true, true, false, false, false, false, true]
+[0, 3, 4, 9]
+This is the blacklist: [false, true, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 3
+This is size of transaction: 54
+This is sender: 4
+This is size of transaction: 54
+This is sender: 9
+This is size of transaction: 54
+
+
+
+
+We are at round: 1
+
+
+
+These are the followees: [true, false, false, false, false, false, false, false, true, false]
+[0, 8]
+This is the blacklist: [false, false, false, false, false, false, false, false, false, false]
+This is sender: 0
+This is size of transaction: 54
+This is sender: 8
+This is size of transaction: 54
+Transaction ids that Node 0 believes consensus on:
+1198232170
+-325241313
+-2069400027
+967144355
+480453413
+-757672226
+1384127240
+-1327134100
+-1184772632
+2099425193
+2057708845
+-337482900
+-95634622
+997876331
+1777351266
+-93336453
+-585432689
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+1628782800
+-1761061939
+-1385223389
+923797724
+-1819916855
+-765010255
+-869598352
+-1541693119
+-1529746932
+1459264676
+1831877201
+990881005
+-1378268225
+2127774901
+1954022549
+-859605706
+-2126361673
+-1005526810
+-799194325
+-435056794
+1265788168
+
+
+Transaction ids that Node 1 believes consensus on:
+
+
+Transaction ids that Node 2 believes consensus on:
+1198232170
+-2069400027
+-325241313
+480453413
+967144355
+-757672226
+1384127240
+-1327134100
+-1184772632
+2057708845
+2099425193
+-337482900
+-95634622
+997876331
+1777351266
+-93336453
+-585432689
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+1628782800
+-1761061939
+-1385223389
+923797724
+-1819916855
+-765010255
+-1541693119
+-869598352
+-1529746932
+1459264676
+1831877201
+990881005
+2127774901
+-1378268225
+1954022549
+-859605706
+-2126361673
+-1005526810
+-799194325
+-435056794
+1265788168
+
+
+Transaction ids that Node 3 believes consensus on:
+1198232170
+-2069400027
+-325241313
+480453413
+967144355
+1384127240
+-757672226
+-1327134100
+-1184772632
+2057708845
+2099425193
+-337482900
+-95634622
+997876331
+1777351266
+-93336453
+-585432689
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+-1761061939
+1628782800
+923797724
+-1385223389
+-1819916855
+-765010255
+-1541693119
+-869598352
+-1529746932
+1459264676
+1831877201
+990881005
+-1378268225
+2127774901
+1954022549
+-2126361673
+-859605706
+-799194325
+-1005526810
+-435056794
+1265788168
+
+
+Transaction ids that Node 4 believes consensus on:
+1198232170
+-2069400027
+-325241313
+967144355
+480453413
+-757672226
+1384127240
+-1327134100
+-1184772632
+2057708845
+2099425193
+-337482900
+-95634622
+997876331
+1777351266
+-93336453
+-585432689
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+1628782800
+-1761061939
+923797724
+-1385223389
+-1819916855
+-765010255
+-1541693119
+-869598352
+-1529746932
+1459264676
+1831877201
+990881005
+2127774901
+-1378268225
+1954022549
+-859605706
+-2126361673
+-799194325
+-1005526810
+-435056794
+1265788168
+
+
+Transaction ids that Node 5 believes consensus on:
+1198232170
+-2069400027
+-325241313
+967144355
+480453413
+-757672226
+1384127240
+-1327134100
+-1184772632
+2099425193
+2057708845
+-337482900
+-95634622
+997876331
+1777351266
+-585432689
+-93336453
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+-1761061939
+1628782800
+923797724
+-1385223389
+-1819916855
+-765010255
+-869598352
+-1541693119
+-1529746932
+1459264676
+1831877201
+990881005
+-1378268225
+2127774901
+1954022549
+-2126361673
+-859605706
+-1005526810
+-799194325
+-435056794
+1265788168
+
+
+Transaction ids that Node 6 believes consensus on:
+1198232170
+-325241313
+-2069400027
+967144355
+480453413
+-757672226
+1384127240
+-1184772632
+-1327134100
+2057708845
+2099425193
+-337482900
+-95634622
+997876331
+1777351266
+-585432689
+-93336453
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+-1761061939
+1628782800
+923797724
+-1385223389
+-1819916855
+-765010255
+-1541693119
+-869598352
+-1529746932
+1459264676
+1831877201
+990881005
+2127774901
+-1378268225
+1954022549
+-2126361673
+-859605706
+-1005526810
+-799194325
+-435056794
+1265788168
+
+
+Transaction ids that Node 7 believes consensus on:
+1198232170
+-325241313
+-2069400027
+967144355
+480453413
+1384127240
+-757672226
+-1184772632
+-1327134100
+2099425193
+2057708845
+-95634622
+-337482900
+997876331
+1777351266
+-93336453
+-585432689
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+1628782800
+-1761061939
+-1385223389
+923797724
+-1819916855
+-765010255
+-1541693119
+-869598352
+-1529746932
+1459264676
+1831877201
+990881005
+-1378268225
+2127774901
+1954022549
+-859605706
+-2126361673
+-799194325
+-1005526810
+-435056794
+1265788168
+
+
+Transaction ids that Node 8 believes consensus on:
+1198232170
+-2069400027
+-325241313
+967144355
+480453413
+-757672226
+1384127240
+-1327134100
+-1184772632
+2099425193
+2057708845
+-337482900
+-95634622
+997876331
+1777351266
+-93336453
+-585432689
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+1628782800
+-1761061939
+923797724
+-1385223389
+-1819916855
+-765010255
+-869598352
+-1541693119
+-1529746932
+1459264676
+1831877201
+990881005
+-1378268225
+2127774901
+1954022549
+-859605706
+-2126361673
+-799194325
+-1005526810
+-435056794
+1265788168
+
+
+Transaction ids that Node 9 believes consensus on:
+1198232170
+-325241313
+-2069400027
+967144355
+480453413
+-757672226
+1384127240
+-1327134100
+-1184772632
+2057708845
+2099425193
+-337482900
+-95634622
+997876331
+1777351266
+-585432689
+-93336453
+1568927131
+361388816
+643465793
+1544909832
+-2103595645
+-1327969209
+-14050552
+-863362515
+-2017432984
+-106689649
+-979471309
+-449381246
+923803688
+-495514803
+-734378502
+1676061092
+1628782800
+-1761061939
+-1385223389
+923797724
+-1819916855
+-765010255
+-869598352
+-1541693119
+-1529746932
+1459264676
+1831877201
+990881005
+-1378268225
+2127774901
+1954022549
+-859605706
+-2126361673
+-799194325
+-1005526810
+-435056794
+1265788168
+
+

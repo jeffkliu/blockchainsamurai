@@ -22,4 +22,8 @@ public class MaliciousNode implements Node {
     public void receiveFromFollowees(Set<Candidate> candidates) {
         return;
     }
+
+    public void saveNodes(Node[] nodes){
+        return;
+    };
 }

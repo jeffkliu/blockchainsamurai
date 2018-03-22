@@ -1,0 +1,116 @@
+
+
+
+
+We are at round: 10
+
+This is the size of pendingTransactions: 1 (Node 1)
+
+
+These are the followees: [false, false, false, false, false, false, true, true, false, false]
+[7]
+This is the blacklist: [false, false, false, false, false, false, true, false, false, false]
+This is sender: 7
+This is size of transaction: 4
+
+
+
+
+We are at round: 10
+
+This is the size of pendingTransactions: 4 (Node 2)
+
+
+These are the followees: [false, false, false, true, true, false, true, true, false, false]
+[3, 7]
+This is the blacklist: [false, false, false, false, true, false, true, false, false, false]
+This is sender: 3
+This is size of transaction: 5
+This is sender: 7
+This is size of transaction: 4
+
+
+
+
+We are at round: 10
+
+This is the size of pendingTransactions: 5 (Node 3)
+
+
+These are the followees: [false, true, false, false, false, false, true, false, false, false]
+[1]
+This is the blacklist: [false, false, false, false, false, false, true, false, false, false]
+This is sender: 1
+This is size of transaction: 1
+
+
+
+
+We are at round: 9
+
+This is the size of pendingTransactions: 9 (Node 4)
+
+
+These are the followees: [false, false, false, true, true, false, true, true, false, false]
+[3]
+This is the blacklist: [false, false, false, false, true, false, true, true, false, false]
+This is sender: 3
+This is size of transaction: 1
+
+
+
+
+We are at round: 9
+
+This is the size of pendingTransactions: 1 (Node 5)
+
+
+These are the followees: [false, true, false, false, false, false, true, false, false, false]
+[1]
+This is the blacklist: [false, false, false, false, false, false, true, false, false, false]
+This is sender: 1
+This is size of transaction: 4
+
+
+
+
+We are at round: 8
+
+This is the size of pendingTransactions: 1 (Node 6)
+
+
+These are the followees: [false, false, false, true, true, false, true, true, false, false]
+[3]
+This is the blacklist: [false, false, false, false, true, false, true, true, false, false]
+This is sender: 3
+This is size of transaction: 4
+Transaction ids that Node 0 believes consensus on:
+
+
+Transaction ids that Node 1 believes consensus on:
+
+
+Transaction ids that Node 2 believes consensus on:
+
+
+Transaction ids that Node 3 believes consensus on:
+
+
+Transaction ids that Node 4 believes consensus on:
+
+
+Transaction ids that Node 5 believes consensus on:
+
+
+Transaction ids that Node 6 believes consensus on:
+
+
+Transaction ids that Node 7 believes consensus on:
+
+
+Transaction ids that Node 8 believes consensus on:
+
+
+Transaction ids that Node 9 believes consensus on:
+
+

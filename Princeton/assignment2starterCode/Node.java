@@ -22,4 +22,5 @@ public interface Node {
 
     /** receive candidates from other nodes. */
     void receiveFromFollowees(Set<Candidate> candidates);
+
 }

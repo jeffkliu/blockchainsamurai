@@ -18,7 +18,7 @@ public class Simulation {
       // and numRounds (10, 20). You should try to test your CompliantNode
       // code for all 3x3x3x2 = 54 combinations.
 
-      int numNodes = 5;
+      int numNodes = 20;
       double p_graph = Double.parseDouble(args[0]); // parameter for random graph: prob. that an edge will exist
       double p_malicious = Double.parseDouble(args[1]); // prob. that a node will be set to be malicious
       double p_txDistribution = Double.parseDouble(args[2]); // probability of assigning an initial transaction to each node 
@@ -33,7 +33,8 @@ public class Simulation {
             nodes[i] = new MaliciousNode(p_graph, p_malicious, p_txDistribution, numRounds);
          else
             nodes[i] = new CompliantNode(p_graph, p_malicious, p_txDistribution, numRounds);
-      }
+      
+   }
 
 
       // initialize random follow graph
@@ -48,8 +49,15 @@ public class Simulation {
       }
 
       // notify all nodes of their followees
-      for (int i = 0; i < numNodes; i++)
+      for (int i = 0; i < numNodes; i++){
+
+         //if(nodes[i] instanceof CompliantNode)
+           // nodes[i].saveNodes(nodes);
+
          nodes[i].setFollowees(followees[i]);
+
+
+      }
 
       // initialize a set of 500 valid Transactions with random ids
       int numTx = 500;
@@ -106,8 +114,11 @@ public class Simulation {
 
          // Distribute the Proposals to their intended recipients as Candidates
          for (int i = 0; i < numNodes; i++) {
-            if (allProposals.containsKey(i))
+            if (allProposals.containsKey(i)){
+               if(nodes[i] instanceof CompliantNode)
+                  System.out.println("\n\nThis is Node #:" + i);
                nodes[i].receiveFromFollowees(allProposals.get(i));
+            }
          }
       }
 
